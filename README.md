@@ -1,2 +1,2 @@
 # Cross-road-control-system-for-Traffic-Lights
-The whole report is given in the Readme file
+The report includes everything related to the project including the code.
